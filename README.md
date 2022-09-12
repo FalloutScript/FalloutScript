@@ -2,9 +2,13 @@ hello this is my really cool profile
 so uh yeah i like playing sse2 (roblox game) 
 i have some plans for this account 
  
+ 
+ 
  you might be asking, What plans?
  well uh bypassing filters
  ok thats all 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FalloutScripts)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
