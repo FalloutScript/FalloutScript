@@ -8,7 +8,7 @@ i have some plans for this account
  well uh bypassing filters
  ok thats all 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FalloutScripts)](https://github.com/FalloutScripts/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FalloutScript)](https://github.com/FalloutScript/github-readme-stats)
 
 
 <!--
