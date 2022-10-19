@@ -1,5 +1,3 @@
-Hello! I am 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FalloutScript&show_icons=true&theme=radical)
 )](https://github.com/FalloutScript/github-readme-stats)
 
